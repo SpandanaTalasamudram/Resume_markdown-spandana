@@ -14,14 +14,14 @@
 - Address : Tekkali,Srikakulam Dist <br>
 
 **Intermediate**
-- College Name : _Gaytri Junior College <br>
+- College Name : _Gaytri Junior College_ <br>
 - Branch : Mpc <br>
 - Year Of Pass : 2018 <br>
 - Percentage : 83% <br>
 - Address : Srikakulam <br>
 
 **SSC**
-- School Name : _AmmaOdi High School <br>
+- School Name : _AmmaOdi High School_ <br>
 - Year Of Pass : 2016 <br>
 - Percentage : 90% <br>
 
